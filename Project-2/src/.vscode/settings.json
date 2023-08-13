@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "lista.h": "c",
+        "libs.h": "c",
+        "rectangle.h": "c",
+        "array": "c",
+        "svg.h": "c",
+        "cpt.h": "c",
+        "figure.h": "c",
+        "stdbool.h": "c"
+    }
+}
